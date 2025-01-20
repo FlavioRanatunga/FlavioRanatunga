@@ -1,68 +1,71 @@
-## Hi there 👋
+# 👾 Flavio Ranatunga: Cyberpunk Coder 🚀
 
-<!-- Retro ASCII Art Header -->
 ```plaintext
-  ______ _       _  __     ______                           _           
- /_  __/(_)___  (_)/ /_   /_  __/__  _________ ___  __  __ (_)___  ___ _
-  / /  / // _ \/ // __/    / / / _ \/ ___/ __ `__ \/ / / // // _ \/ __ `/
- / /  / //  __/ // /_     / / /  __/ /  / / / / / / /_/ // //  __/ /_/ / 
-/_/  /_/ \___/_/ \__/    /_/  \___/_/  /_/ /_/ /_/\__, //_//\___/\__,_/  
-                                                 /____/                 
-Welcome! 🚀
-Hello, I'm Flavio Ranatunga, a Software Engineering graduate passionate about solving real-world problems through efficient and innovative solutions. With a strong foundation in Java, Spring Boot, and full-stack development, I specialize in creating engaging user experiences and robust backends.
+    ______ _       _  __     ______                           _           
+   /_  __/(_)___  (_)/ /_   /_  __/__  _________ ___  __  __ (_)___  ___ _
+    / /  / // _ \/ // __/    / / / _ \/ ___/ __ `__ \/ / / // // _ \/ __ `/
+   / /  / //  __/ // /_     / / /  __/ /  / / / / / / /_/ // //  __/ /_/ / 
+  /_/  /_/ \___/_/ \__/    /_/  \___/_/  /_/ /_/ /_/\__, //_//\___/\__,_/  
+                                                   /____/                 
+Hello! I'm Flavio Ranatunga, a Software Engineering graduate with a passion for turning sci-fi concepts into reality using tech. Welcome to my digital domain! 🦾
 
-🕹️ My Projects
-Here’s what I’ve been up to:
+🕹️ Projects
+⚡ Explore some of my standout creations:
 
-EduTourism Platform: A web app promoting educational tourism in Sri Lanka, using React and Spring Boot, with a MySQL backend.
-
-FIFA Women’s World Cup Database System: Python/MySQL CLI app for managing tournament data with ER modeling.
-
-Mortal Kombat X Gaming Lobby: Online chat lobby developed with .NET WCF and WPF.
-
-P2P Application: Hybrid ASP.NET MVC and Core application for client communication and job execution.
-
-Tic-Tac-Toe Game: Interactive UI, game logic, and event handling.
-
-View more on GitHub
+EduTourism Platform: Web app promoting educational tourism in Sri Lanka, powered by React, Spring Boot, and MySQL.
+FIFA Women’s World Cup Database: Python/MySQL CLI app for managing tournament data using ER modeling.
+Mortal Kombat X Gaming Lobby: Online chat lobby with .NET WCF and WPF.
+P2P Application: Hybrid ASP.NET MVC and Core platform for client communication and job execution.
+Tic-Tac-Toe Game: Interactive UI and game logic built from scratch.
+Explore more on GitHub.
 
 ⚡ Skills
-Languages: Java, C#, Python, JavaScript, C
+Here’s what’s in my cybernetic toolkit:
 
-Frameworks & Tools: React, Spring Boot, ASP.NET, MySQL, MongoDB
-
-Other Expertise: Git, AWS, Jira, Network Security, Figma
-
+Languages
+Primary: Java, C#, Python
+Secondary: JavaScript, C
+Frameworks & Tools
+Frontend: React, ASP.NET
+Backend: Spring Boot, Node.js
+Databases: MySQL, MongoDB
+Other Expertise
+Git | AWS | Jira | Network Security
+Figma | REST APIs | Agile Development
 🏆 Achievements
-Graduated from Curtin University Colombo with a weighted average above 75%
+🎓 Graduated with honors from Curtin University Colombo, achieving a weighted average above 75%.
+🔐 Certified Cisco CyberOps Associate & Network Security expert.
+🚀 Successfully deployed multiple applications, including EduTourism and database-backed systems.
 
-Certified in Cisco CyberOps Associate and Network Security
+🌐 Connect With Me
+🌎 Portfolio: Coming Soon
+🔗 LinkedIn: www.linkedin.com/in/flavio-ranatunga-8516752a5
+📧 Email: flavioranatunga3@gmail.com
+💻 GitHub: [FlavioRanatunga](https://github.com/FlavioRanatunga/FlavioRanatunga)
 
-Deployed multiple applications, including EduTourism and database-backed systems
+🎮 Stats & Cyberpunk Vibes
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioRanatunga&show_icons=true&theme=radical&hide_title=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioRanatunga&layout=compact&theme=radical)
 
-🌐 Connect with Me
-Portfolio: Visit my website
+"The code is strong with this one." 🦾
 
-LinkedIn: dhilisha-ranatunga-8516752a5
+markdown
+Copy
+Edit
 
-Email: flavioranatunga3@gmail.com
+### How This Looks:
+1. **Retro ASCII Header**: A cyberpunk-inspired ASCII art at the top.
+2. **Organized Sections**:
+   - **Projects**: Highlights key projects with a brief description and links.
+   - **Skills**: Summarizes your technical capabilities.
+   - **Achievements**: Showcases key accomplishments.
+   - **Connect**: Links to your professional profiles and GitHub.
+   - **Stats**: Uses dynamic GitHub stats to give the page some flair.
+3. **Dynamic GitHub Stats**: Pulls live data from your GitHub using `github-readme-stats`.
 
-GitHub: FlavioRanatunga
+### Usage
+1. Copy this code into your `README.md` file.
+2. Replace placeholder links and usernames with your actual information.
+3. Ensure you're using the correct GitHub username in the stats URLs.
 
-<!-- Add this section for animation -->
-
-✨ Fun Fact
-Did you know? Retro themes can give your projects a unique and nostalgic touch!
-
-<style> body { background-color: #0f0c29; background-image: linear-gradient(315deg, #0f0c29 0%, #302b63 74%); color: #ffffff; font-family: 'Courier New', Courier, monospace; }
-
-h1, h2, h3 { animation: glow 1s ease-in-out infinite alternate; }
-
-@keyframes glow { from { text-shadow: 0 0 10px #ffffff, 0 0 20px #ff00ff, 0 0 30px #ff00ff, 0 0 40px #ff00ff, 0 0 50px #ff00ff, 0 0 60px #ff00ff, 0 0 70px #ff00ff; }
-
-to { text-shadow: 0 0 20px #ffffff, 0 0 30px #ff00ff, 0 0 40px #ff00ff, 0 0 50px #ff00ff, 0 0 60px #ff00ff, 0 0 70px #ff00ff, 0 0 80px #ff00ff; } }
-
-a { color: #ff00ff; text-decoration: none; }
-
-a:hover { color: #ffffff; } </style>
-
+Let me know if you'd like additional tweaks or enhancements! 🚀
