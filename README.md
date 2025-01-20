@@ -1,4 +1,4 @@
-# 👾 Flavio Ranatunga: Cyberpunk Coder 🚀
+# 👾 Flavio Ranatunga: Coder 🚀
 
 ```plaintext
     ______ _       _  __     ______                           _           
@@ -43,8 +43,10 @@ Figma | REST APIs | Agile Development
 📧 Email: flavioranatunga3@gmail.com
 💻 GitHub: [FlavioRanatunga](https://github.com/FlavioRanatunga/FlavioRanatunga)
 
-🎮 Stats & Cyberpunk Vibes
-[![Flavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioRanatunga)](https://github.com/FlavioRanatunga/github-readme-stats)
+## 🎮 Stats & Cyberpunk Vibes
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioRanatunga&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioRanatunga&layout=compact&theme=radical)
+
 
 "The code is strong with this one." 🦾
