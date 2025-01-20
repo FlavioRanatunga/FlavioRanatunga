@@ -48,24 +48,3 @@ Figma | REST APIs | Agile Development
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioRanatunga&layout=compact&theme=radical)
 
 "The code is strong with this one." 🦾
-
-markdown
-Copy
-Edit
-
-### How This Looks:
-1. **Retro ASCII Header**: A cyberpunk-inspired ASCII art at the top.
-2. **Organized Sections**:
-   - **Projects**: Highlights key projects with a brief description and links.
-   - **Skills**: Summarizes your technical capabilities.
-   - **Achievements**: Showcases key accomplishments.
-   - **Connect**: Links to your professional profiles and GitHub.
-   - **Stats**: Uses dynamic GitHub stats to give the page some flair.
-3. **Dynamic GitHub Stats**: Pulls live data from your GitHub using `github-readme-stats`.
-
-### Usage
-1. Copy this code into your `README.md` file.
-2. Replace placeholder links and usernames with your actual information.
-3. Ensure you're using the correct GitHub username in the stats URLs.
-
-Let me know if you'd like additional tweaks or enhancements! 🚀
