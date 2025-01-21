@@ -86,5 +86,3 @@ Join me on this adventure 🚀:
 
 _"The future belongs to those who code it."_  
 > – Flavio Ranatunga
-
-lower the retro tone wording, i just needed the theme and ascii art is not displayed properly
