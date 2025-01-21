@@ -46,8 +46,3 @@ Figma | REST APIs | Agile Development
 ## 🎮 Stats & Cyberpunk Vibes
 
 ![Flavio's github stats](https://github-readme-stats.vercel.app/api?username=FlavioRanatunga&hide=["issues"]&show_icons=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioRanatunga&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioRanatunga&layout=compact&theme=radical)
-
-
-"The code is strong with this one." 🦾
