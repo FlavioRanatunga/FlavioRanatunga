@@ -1,60 +1,90 @@
-👨‍💻 Flavio Ranatunga: Software Engineer 🚀
-Copy
-Edit
-███████╗██╗      █████╗ ██╗   ██╗██╗ ██████╗     ██████╗  ██████╗ ███╗   ██╗  
-██╔════╝██║     ██╔══██╗██║   ██║██║██╔═══██╗    ██╔══██╗██╔═══██╗████╗  ██║  
-█████╗  ██║     ███████║██║   ██║██║██║   ██║    ██████╔╝██║   ██║██╔██╗ ██║  
-██╔══╝  ██║     ██╔══██║╚██╗ ██╔╝██║██║   ██║    ██╔═══╝ ██║   ██║██║╚██╗██║  
-███████╗███████╗██║  ██║ ╚████╔╝ ██║╚██████╔╝    ██║     ╚██████╔╝██║ ╚████║  
-╚══════╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝ ╚═════╝     ╚═╝      ╚═════╝ ╚═╝  ╚═══╝  
-🛠️ Projects and Contributions
-Here are some key projects I’ve worked on:
+# 👾 Flavio Ranatunga: Coder 🚀
 
-🌐 EduTourism Platform:
-A web platform to promote educational tourism in Sri Lanka, developed using React, Spring Boot, and MySQL.
+```plaintext
 
-⚽ FIFA Women’s World Cup Database:
-A Python and MySQL command-line application for managing tournament data using ER modeling.
+      ___                  ___                             ___                   ___         ___         ___         ___               ___         ___         ___         ___     
+     /\__\                /\  \        ___                /\  \                 /\  \       /\  \       /\  \       /\  \             /\  \       /\  \       /\__\       /\  \    
+    /:/ _/_              /::\  \      /\  \     ___      /::\  \               /::\  \     /::\  \      \:\  \     /::\  \      ___   \:\  \      \:\  \     /:/ _/_     /::\  \   
+   /:/ /\__\            /:/\:\  \     \:\  \   /\__\    /:/\:\  \             /:/\:\__\   /:/\:\  \      \:\  \   /:/\:\  \    /\__\   \:\  \      \:\  \   /:/ /\  \   /:/\:\  \  
+  /:/ /:/  ___     ___ /:/ /::\  \     \:\  \ /:/__/   /:/  \:\  \           /:/ /:/  /  /:/ /::\  \ _____\:\  \ /:/ /::\  \  /:/  ___  \:\  \ _____\:\  \ /:/ /::\  \ /:/ /::\  \ 
+ /:/_/:/  /\  \   /\__/:/_/:/\:\__\___  \:\__/::\  \  /:/__/ \:\__\         /:/_/:/__/__/:/_/:/\:\__/::::::::\__/:/_/:/\:\__\/:/__/\  \  \:\__/::::::::\__/:/__\/\:\__/:/_/:/\:\__\
+ \:\/:/  /\:\  \ /:/  \:\/:/  \/__/\  \ |:|  \/\:\  \_\:\  \ /:/  /         \:\/:::::/  \:\/:/  \/__\:\~~\~~\/__\:\/:/  \/__/::\  \:\  \ /:/  \:\~~\~~\/__\:\  \ /:/  \:\/:/  \/__/
+  \::/__/  \:\  /:/  / \::/__/    \:\  \|:|  |~~\:\/\__\:\  /:/  /           \::/~~/~~~~ \::/__/     \:\  \      \::/__/   /:/\:\  \:\  /:/  / \:\  \      \:\  /:/  / \::/__/     
+   \:\  \   \:\/:/  /   \:\  \     \:\__|:|__|   \::/  /\:\/:/  /             \:\~~\      \:\  \      \:\  \      \:\  \   \/__\:\  \:\/:/  /   \:\  \      \:\/:/  /   \:\  \     
+    \:\__\   \::/  /     \:\__\     \::::/__/    /:/  /  \::/  /               \:\__\      \:\__\      \:\__\      \:\__\       \:\__\::/  /     \:\__\      \::/  /     \:\__\    
+     \/__/    \/__/       \/__/      ~~~~        \/__/    \/__/                 \/__/       \/__/       \/__/       \/__/        \/__/\/__/       \/__/       \/__/       \/__/    
 
-💬 Gaming Lobby Application:
-A .NET-based online chat lobby inspired by classic multiplayer experiences.
+```
 
-🛰️ Peer-to-Peer Application:
-A hybrid platform using ASP.NET MVC and Core for client communication and job execution.
+> Hello, world! I'm Flavio Ranatunga, a  recent software engineering graduate from Curtin University with a passion for futuristic solutions. If you're into tech-powered adventures, you've come to the right place! 🦾
 
-✖️ Tic-Tac-Toe:
-A classic game with an interactive UI and custom game logic.
+---
 
-Explore more projects on GitHub!
+## 🕹️ Projects
 
-💡 Skills and Expertise
-Programming Languages
+- **🌐 EduTourism Platform**  
+  A web app promoting educational tourism in Sri Lanka, crafted with React, Spring Boot, and MySQL.  
 
-Primary: Java | C# | Python
-Secondary: JavaScript | C
-Frameworks and Tools
+- **⚽ FIFA Women’s World Cup Database**  
+  A Python/MySQL CLI app managing tournament data with ER modeling.  
 
-Frontend: React | ASP.NET
-Backend: Spring Boot | Node.js
-Other Tools: Git | AWS | REST APIs | Figma
-Databases
+- **👾 Mortal Kombat X Gaming Lobby**  
+  A throwback online chat lobby using .NET WCF and WPF.  
 
-MySQL
-MongoDB
-Additional Skills
+- **🛰️ P2P Application**  
+  Hybrid ASP.NET MVC/Core platform for seamless client communication and job execution.  
 
-Agile Development
-Network Security
-Jira
-🎓 Education and Achievements
-Bachelor of Computing (Software Engineering), Curtin University Colombo
-Graduated with honors (WAM > 75%).
-Certifications: Cisco CyberOps Associate, Network Security Certification
-Notable Projects: Successfully designed and launched several platforms, including EduTourism and database systems.
-🌐 Let’s Connect
-LinkedIn: Flavio Ranatunga
-GitHub: FlavioRanatunga
-Email: flavioranatunga3@gmail.com
-"The future belongs to those who innovate."
+- **✖️ Tic-Tac-Toe Game**  
+  Classic fun! Interactive UI and game logic built from scratch.  
 
-– Flavio Ranatunga
+_Explore more on [GitHub](https://github.com/FlavioRanatunga)!_
+
+---
+
+## ⚡ Skillset
+
+**Languages**  
+`Primary` → Java | C# | Python  
+`Secondary` → JavaScript | C  
+
+**Frameworks & Tools**  
+Frontend → React | ASP.NET  
+Backend → Spring Boot | Node.js  
+
+**Databases**  
+- MySQL  
+- MongoDB  
+
+**Other Expertise**  
+- 🛠️ Git | AWS | Jira | Network Security  
+- 🎨 Figma | REST APIs | Agile Development  
+
+---
+
+## 🏆 Achievements: High Scores Unlocked
+- **🎓 Education**: Graduated with honors from Curtin University Colombo (WAM > 75%).  
+- **🔐 Certifications**: Cisco CyberOps Associate & Network Security expert.  
+- **🚀 Accomplishments**: Successfully launched multiple web applications, including EduTourism and database-driven systems.  
+
+---
+
+## 🌐 Connect With Me
+Join me on this adventure 🚀:  
+
+- 🌎 **Portfolio**: Coming soon... stay tuned!  
+- 🔗 **LinkedIn**: [Flavio Ranatunga](https://www.linkedin.com/in/flavio-ranatunga-8516752a5)  
+- 📧 **Email**: flavioranatunga3@gmail.com  
+- 💻 **GitHub**: [FlavioRanatunga](https://github.com/FlavioRanatunga)  
+
+---
+
+## 🎮 Stats & Vibes
+![Flavio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioRanatunga&show_icons=true&theme=merko)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioRanatunga&layout=compact&theme=merko)
+
+---
+
+_"The future belongs to those who code it."_  
+> – Flavio Ranatunga
+
+lower the retro tone wording, i just needed the theme and ascii art is not displayed properly
