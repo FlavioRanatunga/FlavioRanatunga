@@ -1,6 +1,4 @@
 # 👾 Flavio Ranatunga: Coder 🚀
-
-```plaintext
     ______ _       _  __     ______                           _           
    /_  __/(_)___  (_)/ /_   /_  __/__  _________ ___  __  __ (_)___  ___ _
     / /  / // _ \/ // __/    / / / _ \/ ___/ __ `__ \/ / / // // _ \/ __ `/
@@ -23,26 +21,28 @@ Explore more on GitHub.
 Here’s what’s in my cybernetic toolkit:
 
 Languages
+
 Primary: Java, C#, Python
 Secondary: JavaScript, C
 Frameworks & Tools
+
 Frontend: React, ASP.NET
 Backend: Spring Boot, Node.js
-Databases: MySQL, MongoDB
+Databases
+
+MySQL, MongoDB
 Other Expertise
+
 Git | AWS | Jira | Network Security
 Figma | REST APIs | Agile Development
 🏆 Achievements
 🎓 Graduated with honors from Curtin University Colombo, achieving a weighted average above 75%.
 🔐 Certified Cisco CyberOps Associate & Network Security expert.
 🚀 Successfully deployed multiple applications, including EduTourism and database-backed systems.
-
 🌐 Connect With Me
 🌎 Portfolio: Coming Soon
 🔗 LinkedIn: www.linkedin.com/in/flavio-ranatunga-8516752a5
 📧 Email: flavioranatunga3@gmail.com
-💻 GitHub: [FlavioRanatunga](https://github.com/FlavioRanatunga/FlavioRanatunga)
-
-## 🎮 Stats & Cyberpunk Vibes
-
-![Flavio's github stats](https://github-readme-stats.vercel.app/api?username=FlavioRanatunga
+💻 GitHub: FlavioRanatunga
+🎮 Stats & Cyberpunk Vibes
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioRanatunga)](https://github.com/FlavioRanatunga/github-readme-stats)
