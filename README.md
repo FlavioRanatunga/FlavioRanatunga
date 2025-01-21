@@ -1,84 +1,60 @@
-# 👾 Flavio Ranatunga: Coder Extraordinaire 🚀
-
+👨‍💻 Flavio Ranatunga: Software Engineer 🚀
 Copy
 Edit
-███████╗██╗      █████╗ ██╗   ██╗██╗ ██████╗     ██████╗  ██████╗ ███╗   ██╗
-██╔════╝██║     ██╔══██╗██║   ██║██║██╔═══██╗    ██╔══██╗██╔═══██╗████╗  ██║
-█████╗  ██║     ███████║██║   ██║██║██║   ██║    ██████╔╝██║   ██║██╔██╗ ██║
-██╔══╝  ██║     ██╔══██║╚██╗ ██╔╝██║██║   ██║    ██╔═══╝ ██║   ██║██║╚██╗██║
-██║ ╚   █████╔╝ ██║╚███   ████╔╝    ██║     ╚██████╔╝██║ ╚████║
-╚══════╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝ ╚═════╝     ╚═╝      ╚═════╝ ╚═╝  ╚═══╝
-yaml
-Copy
-Edit
-> Hello, world! I'm Flavio Ranatunga, a software engineer with a passion for blending retro aesthetics with futuristic solutions. If you're into tech-powered adventures, you've come to the right place! 🦾
+███████╗██╗      █████╗ ██╗   ██╗██╗ ██████╗     ██████╗  ██████╗ ███╗   ██╗  
+██╔════╝██║     ██╔══██╗██║   ██║██║██╔═══██╗    ██╔══██╗██╔═══██╗████╗  ██║  
+█████╗  ██║     ███████║██║   ██║██║██║   ██║    ██████╔╝██║   ██║██╔██╗ ██║  
+██╔══╝  ██║     ██╔══██║╚██╗ ██╔╝██║██║   ██║    ██╔═══╝ ██║   ██║██║╚██╗██║  
+███████╗███████╗██║  ██║ ╚████╔╝ ██║╚██████╔╝    ██║     ╚██████╔╝██║ ╚████║  
+╚══════╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝ ╚═════╝     ╚═╝      ╚═════╝ ╚═╝  ╚═══╝  
+🛠️ Projects and Contributions
+Here are some key projects I’ve worked on:
 
----
+🌐 EduTourism Platform:
+A web platform to promote educational tourism in Sri Lanka, developed using React, Spring Boot, and MySQL.
 
-## 🕹️ Retro-Inspired Projects
-Take a trip back to the future with some of my creations:  
+⚽ FIFA Women’s World Cup Database:
+A Python and MySQL command-line application for managing tournament data using ER modeling.
 
-- **🌐 EduTourism Platform**  
-  A web app promoting educational tourism in Sri Lanka, crafted with React, Spring Boot, and MySQL.  
+💬 Gaming Lobby Application:
+A .NET-based online chat lobby inspired by classic multiplayer experiences.
 
-- **⚽ FIFA Women’s World Cup Database**  
-  A Python/MySQL CLI app managing tournament data with ER modeling.  
+🛰️ Peer-to-Peer Application:
+A hybrid platform using ASP.NET MVC and Core for client communication and job execution.
 
-- **👾 Mortal Kombat X Gaming Lobby**  
-  A throwback online chat lobby using .NET WCF and WPF.  
+✖️ Tic-Tac-Toe:
+A classic game with an interactive UI and custom game logic.
 
-- **🛰️ P2P Application**  
-  Hybrid ASP.NET MVC/Core platform for seamless client communication and job execution.  
+Explore more projects on GitHub!
 
-- **✖️ Tic-Tac-Toe Game**  
-  Classic fun! Interactive UI and game logic built from scratch.  
+💡 Skills and Expertise
+Programming Languages
 
-_Explore more of my digital craftsmanship on [GitHub](https://github.com/FlavioRanatunga)!_
+Primary: Java | C# | Python
+Secondary: JavaScript | C
+Frameworks and Tools
 
----
+Frontend: React | ASP.NET
+Backend: Spring Boot | Node.js
+Other Tools: Git | AWS | REST APIs | Figma
+Databases
 
-## ⚡ Skillset: Cybernetic Toolkit
-Here’s what’s powering my journey through cyberspace:
+MySQL
+MongoDB
+Additional Skills
 
-**Languages**  
-`Primary` → Java | C# | Python  
-`Secondary` → JavaScript | C  
+Agile Development
+Network Security
+Jira
+🎓 Education and Achievements
+Bachelor of Computing (Software Engineering), Curtin University Colombo
+Graduated with honors (WAM > 75%).
+Certifications: Cisco CyberOps Associate, Network Security Certification
+Notable Projects: Successfully designed and launched several platforms, including EduTourism and database systems.
+🌐 Let’s Connect
+LinkedIn: Flavio Ranatunga
+GitHub: FlavioRanatunga
+Email: flavioranatunga3@gmail.com
+"The future belongs to those who innovate."
 
-**Frameworks & Tools**  
-Frontend → React | ASP.NET  
-Backend → Spring Boot | Node.js  
-
-**Databases**  
-- MySQL  
-- MongoDB  
-
-**Other Expertise**  
-- 🛠️ Git | AWS | Jira | Network Security  
-- 🎨 Figma | REST APIs | Agile Development  
-
----
-
-## 🏆 Achievements: High Scores Unlocked
-- **🎓 Education**: Graduated with honors from Curtin University Colombo (WAM > 75%).  
-- **🔐 Certifications**: Cisco CyberOps Associate & Network Security expert.  
-- **🚀 Accomplishments**: Successfully launched multiple web applications, including EduTourism and database-driven systems.  
-
----
-
-## 🌐 Connect With Me
-Join me on this adventure 🚀:  
-
-- 🌎 **Portfolio**: Coming soon... stay tuned!  
-- 🔗 **LinkedIn**: [Flavio Ranatunga](https://www.linkedin.com/in/flavio-ranatunga-8516752a5)  
-- 📧 **Email**: flavioranatunga3@gmail.com  
-- 💻 **GitHub**: [FlavioRanatunga](https://github.com/FlavioRanatunga)  
-
----
-
-## 🎮 Retro Stats & Vibes
-![Flavio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioRanatunga&show_icons=true&theme=merko)
-
----
-
-_"The future belongs to those who code it."_  
-> – Flavio Ranatunga
+– Flavio Ranatunga
